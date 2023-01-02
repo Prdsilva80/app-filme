@@ -22,7 +22,7 @@
 
 - Como deixar o site responsivo com o Javascript
 - Entender melhor a lógica do Js
-- Embora tenha sentido uma maior dificuldade em trabalhar co Js, o resultado me deixou feliz
+- Buscar uma API para ser consumida pela aplicação
 - Buscar informações para apresentar o projeto
 
 ---
